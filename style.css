@@ -1,0 +1,20 @@
+.location-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.bi-person-circle {
+    font-size: 1.5rem;
+}
+
+#noAppointmentsAlert,
+#perfil,
+#registerForm {
+    display: none;
+}
+
+#btn-primary-cadastro {
+    margin-top: 15px;
+}
