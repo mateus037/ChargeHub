@@ -25,10 +25,4 @@ O **ChargeHub** tem como propósito facilitar a vida de motoristas de veículos 
 
 ## ▶️ Como executar localmente
 
-1. **Clone este repositório**:
-
-```bash
-git clone https://github.com/seu-usuario/chargehub-frontend.git
-cd chargehub-frontend
-```
-2. **Abrir o arquivo index.html no seu browser.**
+1. **Basta fazer o download do projeto e abrir o arquivo index.html no seu browser.**
