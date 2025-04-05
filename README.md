@@ -24,15 +24,6 @@ O **ChargeHub** tem como propósito facilitar a vida de motoristas de veículos 
 
 ---
 
-## 📦 Requisitos
-
-Antes de rodar, é necessário ter o **back-end da API em Flask** rodando localmente, disponível em:  
-`http://127.0.0.1:5000/api/`
-
-> Obs: a aplicação front-end **consome essa API** para realizar buscas, agendamentos e autenticações.
-
----
-
 ## ▶️ Como executar localmente
 
 1. **Clone este repositório**:
