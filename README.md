@@ -40,3 +40,5 @@ Antes de rodar, é necessário ter o **back-end da API em Flask** rodando localm
 ```bash
 git clone https://github.com/seu-usuario/chargehub-frontend.git
 cd chargehub-frontend
+```
+2. **Abrir o arquivo index.html no seu browser.**
