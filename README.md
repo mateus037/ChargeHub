@@ -20,7 +20,6 @@ O **ChargeHub** tem como propósito facilitar a vida de motoristas de veículos 
 - **HTML5 / CSS3 / JavaScript (Vanilla)**
 - **Bootstrap 5** para componentes visuais
 - **Flatpickr** para seleção de datas
-- **LocalStorage** para simulação de login persistente
 
 ---
 
